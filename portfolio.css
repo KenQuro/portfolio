@@ -1,0 +1,147 @@
+body {
+    background-color:#ccc;
+}
+
+.jumbotron{
+  background-image:url(umi.jpg);
+  background-size: cover;
+  background-position: center 60%;
+}
+
+.container{
+  padding-bottom: 100px;
+}
+
+.section {
+  padding-top: 60px;
+}
+
+.row {
+
+}
+
+img {
+  max-width:80%;
+}
+
+.profile-img {
+  text-align: center;
+  padding-top: 25px;
+}
+
+#gnav {
+  text-align: center;
+}
+
+#gnav ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+
+#gnav ul li {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+}
+
+#gnav ul li a {
+  display: block;
+  padding: 10px 16px;
+  margin-top: 5px;
+  background-color: #506080;
+  color: #fff;
+  text-decoration: none;
+  transition: background-color .2s linear;
+}
+
+.card-wrapper {
+  padding-top: 30px;
+}
+
+.skill-desc {
+  text-align: center;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.skill-desc-title {
+  padding: 14px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.skill-body {
+  font-weight: bold;
+}
+
+.card {
+  border: 1px solid rgba(0,0,0,.3);
+  height: 220px;
+  margin-bottom:50px;
+  background-color: #eee;
+}
+
+h3 {
+  font-size: 100%
+}
+
+.card-image {
+  padding: 3px;
+  max-width: 100%;
+  height: 180px;
+  object-fit: cover;
+  object-position: 0 0%;
+}
+
+.card-works {
+  height: 400px;
+}
+
+.contact-text {
+  text-align: center;
+}
+
+#footer {
+  background-color: #506080;
+  height: 150px;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul {
+ list-style: none;
+ margin: 0;
+ padding-top: 30px;
+}
+
+nav ul li {
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 16px;
+  margin-top: 5px;
+  color: #fff;
+  text-decoration: none;
+  transition: background-color .2s linear;
+}
+
+.contact-text {
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 6px;
+  padding-top: 15px;
+}
